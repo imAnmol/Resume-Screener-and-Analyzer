@@ -17,7 +17,7 @@ pip install -r requirements.txt
 - To run app, write following command in CMD. or use any IDE.
   ```
   streamlit run App.py
-- Admin side credentials is `davreign` and password is `resumescreener`. 
+- Admin side credentials is `Anmol` and password is `resumescreener`. 
 ```
 
 ## Features:
